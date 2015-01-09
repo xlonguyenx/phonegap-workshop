@@ -1,0 +1,30 @@
+2015-01-09 14:41:52.997 Employee Directory[18857:493624] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/longuyen/Library/Developer/CoreSimulator/Devices/7C50216E-39D0-4587-80F9-0139BD8EDB59/data/Containers/Data/Application/4C171F52-88E5-41AA-95EC-137FE913A053/Library/Cookies/Cookies.binarycookies
+2015-01-09 14:41:53.092 Employee Directory[18857:493624] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-09 14:41:53.093 Employee Directory[18857:493624] Multi-tasking -> Device: YES, App: YES
+2015-01-09 14:41:53.097 Employee Directory[18857:493624] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-09 14:41:54.137 Employee Directory[18857:493624] Resetting plugins due to page load.
+2015-01-09 14:41:54.217 Employee Directory[18857:493624] Finished load of: file:///Users/longuyen/Library/Developer/CoreSimulator/Devices/7C50216E-39D0-4587-80F9-0139BD8EDB59/data/Containers/Bundle/Application/262E36A5-8A4A-4F40-A56D-AB0AB3586A38/Employee%20Directory.app/www/index.html
+2015-01-09 14:42:03.905 Employee Directory[18857:493624] CDVWebViewDelegate: Navigation started when state=1
+2015-01-09 14:42:03.905 Employee Directory[18857:493624] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-09 14:44:44.266 Employee Directory[19109:504056] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/longuyen/Library/Developer/CoreSimulator/Devices/7C50216E-39D0-4587-80F9-0139BD8EDB59/data/Containers/Data/Application/590CFE07-F77E-41FA-8FEA-9B81F1699331/Library/Cookies/Cookies.binarycookies
+2015-01-09 14:44:44.382 Employee Directory[19109:504056] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-09 14:44:44.382 Employee Directory[19109:504056] Multi-tasking -> Device: YES, App: YES
+2015-01-09 14:44:44.385 Employee Directory[19109:504056] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-09 14:44:44.653 Employee Directory[19109:504056] Resetting plugins due to page load.
+2015-01-09 14:44:44.701 Employee Directory[19109:504056] Finished load of: file:///Users/longuyen/Library/Developer/CoreSimulator/Devices/7C50216E-39D0-4587-80F9-0139BD8EDB59/data/Containers/Bundle/Application/A87BE046-B970-426F-A5CF-CF08DFD787E4/Employee%20Directory.app/www/index.html
+2015-01-09 14:44:54.504 Employee Directory[19109:504056] CDVWebViewDelegate: Navigation started when state=1
+2015-01-09 14:44:54.504 Employee Directory[19109:504056] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1

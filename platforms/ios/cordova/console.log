@@ -28,3 +28,19 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-01-09 14:44:44.701 Employee Directory[19109:504056] Finished load of: file:///Users/longuyen/Library/Developer/CoreSimulator/Devices/7C50216E-39D0-4587-80F9-0139BD8EDB59/data/Containers/Bundle/Application/A87BE046-B970-426F-A5CF-CF08DFD787E4/Employee%20Directory.app/www/index.html
 2015-01-09 14:44:54.504 Employee Directory[19109:504056] CDVWebViewDelegate: Navigation started when state=1
 2015-01-09 14:44:54.504 Employee Directory[19109:504056] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-01-09 16:54:27.358 Employee Directory[24561:728999] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/longuyen/Library/Developer/CoreSimulator/Devices/7C50216E-39D0-4587-80F9-0139BD8EDB59/data/Containers/Data/Application/F3319962-869A-4812-BCD2-07F5657AE0F8/Library/Cookies/Cookies.binarycookies
+2015-01-09 16:54:27.441 Employee Directory[24561:728999] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-09 16:54:27.441 Employee Directory[24561:728999] Multi-tasking -> Device: YES, App: YES
+2015-01-09 16:54:27.443 Employee Directory[24561:728999] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-09 16:54:27.708 Employee Directory[24561:728999] Resetting plugins due to page load.
+2015-01-09 16:54:27.747 Employee Directory[24561:729026] ERROR whitelist rejection: url='http://use.edgefonts.net/c/e39327/source-sans-pro:n4:n7:i4:i7.Xd2:F:2,Xcv:F:2,Xcz:F:2,Xcw:F:2/d'
+2015-01-09 16:54:27.793 Employee Directory[24561:729026] ERROR whitelist rejection: url='http://p.typekit.net/p.gif?s=4&h=&f=17265.17267.17269.17268&app=&_=1420840467792'
+2015-01-09 16:54:27.833 Employee Directory[24561:728999] Finished load of: file:///Users/longuyen/Library/Developer/CoreSimulator/Devices/7C50216E-39D0-4587-80F9-0139BD8EDB59/data/Containers/Bundle/Application/C24AD4EF-8279-46A4-9CC8-1E69AF45FDE4/Employee%20Directory.app/www/index.html
+2015-01-09 16:54:39.019 Employee Directory[24561:728999] Failed to load webpage with error: The URL can’t be shown
